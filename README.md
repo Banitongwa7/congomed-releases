@@ -1,2 +1,1 @@
-# congomed-releases
-Congomed Releases
+# Installateurs de CongoMed
